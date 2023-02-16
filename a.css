@@ -1,0 +1,31 @@
+.container {
+    background-color: plum;
+   height: 1000px;
+
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 300px 200px;
+
+    row-gap: 50px;
+    column-gap: 100px; 
+}
+    .item-1{
+        background-color: purple;
+        height: 300px;
+        width: 200px;
+    }
+    .item-2{
+        background-color: purple;
+        height: 300px;
+        width: 200px;
+    }
+    .item-3{
+        background-color: purple;
+        height: 300px;
+        width: 200px;
+    }
+    .item-4{
+        background-color: purple;
+        height: 300px;
+        width: 200px;
+    }
